@@ -15,7 +15,7 @@ Cada programa cuenta con un nombre que contiene la siguiente nomenclatura:
 
 >appNombreDelPrograma
 
-Además, si el programa contiene componentes visuales, contendrá la etiquieta ***GUI**
+Además, si el programa contiene componentes visuales, contendrá la etiquieta ***GUI***
 
 ### [📁 Programas Java](/Programas%20Java)
 Carpeta correspondiente a los programas **Java** realizados en el curso, elaborados utlizando el IDE ***Apache Netbeans***, están formados por subcarpetas correspondientes a toda la estructura del programa.
